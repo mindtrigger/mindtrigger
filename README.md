@@ -1,0 +1,2 @@
+# mindtrigger
+All rights reserved
